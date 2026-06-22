@@ -130,9 +130,14 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
 
 
 
+
+
+
+
+
 <hr>
 
-<!-- <h2 align="center">💻 Languages</h2>
+<h2 align="center">💻 Languages</h2>
 
 <p align="center">
   <img title="C" alt="C" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -177,7 +182,13 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
   <img title="Ubuntu" alt="Ubuntu" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 </p>
 
-<hr> -->
+<hr> 
+
+
+
+
+
+
 
 
 
