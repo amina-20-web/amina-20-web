@@ -196,12 +196,20 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
 
 
 
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/amina-20-web/amina-20-web/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
 
 
-<b>FUN FACT EVERYDAY🤔 :</b>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+
+
+
+
+
+
+
+
 
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
@@ -350,8 +358,18 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
-
+<div align="center">
 ### ✨ "Code. Learn. Build. Improve. Repeat."
+
+
+</div>
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+
 
 <br><p align="center">
 <a href="https://github.com/amina-20-web/amina-20-web/graphs/contributors">
