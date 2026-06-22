@@ -350,14 +350,13 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
+
+### ✨ "Code. Learn. Build. Improve. Repeat."
+
 <br><p align="center">
 <a href="https://github.com/amina-20-web/amina-20-web/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=amina-20-web/amina-20-web&anon=true" />
 </a>
 <div align="center">
-
-### ✨ "Code. Learn. Build. Improve. Repeat."
-
-⭐ Thanks for visiting my profile!
 
 </div>
