@@ -134,11 +134,11 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
 
 
 
-
+<!--
 <hr>
-
+<!--
 <h2 align="center">💻 Languages</h2>
-
+<!--
 <p align="center">
   <img title="C" alt="C" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img title="C++" alt="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -149,9 +149,9 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
   <img title="PHP" alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img title="Dart" alt="Dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 </p>
-
+<!--
 <h2 align="center">⚙️ Frameworks & Libraries</h2>
-
+<!--
 <p align="center">
   <img title="React" alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Flutter" alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
@@ -159,29 +159,29 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
   <img title="Spring Boot" alt="Spring Boot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img title="Flask" alt="Flask" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
 </p>
-
+<!--
 <h2 align="center">🗄️ Databases</h2>
-
+<!--
 <p align="center">
   <img title="MySQL" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img title="Oracle Database" alt="Oracle Database" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 </p>
-
+<!--
 <h2 align="center">🛠️ Tools</h2>
-
+<!--
 <p align="center">
   <img title="Git" alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img title="GitHub" alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img title="Visual Studio Code" alt="VS Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
-
+<!--
 <h2 align="center">🐧 Operating Systems</h2>
-
+<!--
 <p align="center">
   <img title="Linux" alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img title="Ubuntu" alt="Ubuntu" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 </p>
-
+-->
 <hr> 
 
 
