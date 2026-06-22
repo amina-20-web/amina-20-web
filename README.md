@@ -77,9 +77,6 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06B6D4">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite&svgfill=646CFF">
-</a>
 
 
 
