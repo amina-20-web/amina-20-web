@@ -50,9 +50,7 @@ I'm a passionate developer who enjoys turning complex problems into elegant solu
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=F80000">
-</a>
+
 
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=68217A">
